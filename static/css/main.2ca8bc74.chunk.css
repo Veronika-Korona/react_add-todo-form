@@ -1,0 +1,2 @@
+.App{text-align:center}.todo{display:flex;align-items:center;justify-content:space-between;flex-grow:1}.todo__title{font-weight:700;text-transform:uppercase}.todo__info{display:block;padding-right:20px}.todo__not-completed{color:red}.todo__completed{color:#00f}.todoList{display:flex;align-items:center;justify-content:space-between;padding:20px;border:2px solid #e5e5e5;border-radius:30px;margin-bottom:10px}.todoList:hover{background-color:pink}
+/*# sourceMappingURL=main.2ca8bc74.chunk.css.map */
